@@ -29,7 +29,7 @@ A simple slot machine game built with **C#** and **Windows Forms**. Players spin
 3. Build and run the project.  
 
 ## Screenshots
-*(Add your screenshots here — e.g. gameplay screen, payout HUD, etc.)*  
+![Slot Machine UI](screenshots/slots.png)
 
 ## Future Improvements
 - More varied emojis with unique payouts  
