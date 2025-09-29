@@ -1,8 +1,8 @@
-Emoji Slot Machine 🎰
+##Emoji Slot Machine 🎰
 
 A simple slot machine game built with C# and Windows Forms. Players spin three emoji reels with adjustable bets and try their luck to hit winning combinations.
 
-Features
+##Features
 
 Adjustable bet system with minimum stake enforcement
 
@@ -14,7 +14,7 @@ Clear HUD showing balance, bet, and payout rules
 
 Simple and fun emoji-based visuals
 
-Payout Rules
+##Payout Rules
 
 3 of a kind → x10 payout
 
@@ -24,13 +24,13 @@ Any 💎 → x2 payout
 
 3 💎 → x20 payout
 
-Requirements
+##Requirements
 
 .NET 9.0 SDK (or compatible)
 
 Windows (for Windows Forms support)
 
-How to Run
+##How to Run
 
 Clone the repository:
 
@@ -42,11 +42,11 @@ Open the solution in Rider or Visual Studio.
 
 Build and run the project.
 
-Screenshots
+##Screenshots
 
 
 
-Future Improvements
+##Future Improvements
 
 More varied emojis with unique payouts
 
